@@ -8,3 +8,4 @@ Tool: QlikCloud (free trial)
 "Qlik Sense - Exploring Stores data - October 1, 2022: PDF of the Qlik 'story'" - PDF explaining the steps and analysis.
 "Qlik Sense - Store data exploration by city - October 7, 2022" - PDF - This contains a single chart  
 "Qlik Sense - Store data overview - October 7, 2022" PDF - This contains multiple charts 
+Project file: "Stores Only.qvf"
